@@ -79,13 +79,14 @@ export default function App() {
           </nav>
           <div className="flex items-center gap-2">
             <a
-              href="/Paul_Nerona_CV.pdf"
+              href="Paul_Nerona_CV.pdf" // relative path
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 bg-teal-600 hover:bg-teal-500 text-white px-4 py-2 rounded-full text-sm transition"
             >
               <FileDown size={16} /> View CV
             </a>
+
           </div>
         </div>
       </header>
@@ -97,7 +98,7 @@ export default function App() {
           Quality Assurance Intern • BSIT Student
         </span>
         <h1 className="text-4xl md:text-6xl font-bold leading-tight max-w-4xl">
-         Hi, I’m Paul Andrew Nerona — 
+          Hi, I’m Paul Andrew Nerona —
         </h1>
         <p className="mt-6 text-gray-300 max-w-2xl">
           Quality Assurance Intern at YAHSHUA Outsourcing Worldwide, Inc. with hands-on experience in functional testing, performance validation, compliance testing, and advanced Excel-based reporting. Currently pursuing a Bachelor of Science in Information Technology and recognized as a Dean’s List student.
