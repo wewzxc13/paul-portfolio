@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global body styles */
+body {
+  @apply font-sans min-h-screen bg-darkbg text-white;
+  margin: 0;
+}
+
+/* Typography */
+h1 {
+  @apply text-4xl leading-snug;
+}
+
+/* Links */
+a {
+  @apply font-medium text-teal-400 no-underline transition-colors duration-200;
+}
+
+a:hover {
+  @apply text-teal-300;
+}
+
+/* Buttons */
+button {
+  @apply rounded-lg border border-transparent px-4 py-2 text-base font-medium bg-gray-700 text-white cursor-pointer transition-colors duration-200;
+}
+
+button:hover {
+  @apply border-teal-400;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
