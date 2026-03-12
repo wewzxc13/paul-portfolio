@@ -46,9 +46,9 @@ const projects = [
   },
   {
     "title": "Excel Transaction Log Management",
-    "description": "Created and maintained comprehensive Excel transaction logs with automated formulas, data validation, and accurate financial tracking for streamlined reporting.",
-    "tools": "Microsoft Excel • Google Sheets • Data Entry • Formula Automation",
-    "image": "https://unsplash.com/photos/a-hand-pointing-at-a-spreadsheet-on-a-computer-screen-xTA7sAAtG40"
+    "description": "Created and maintained comprehensive Excel transaction logs, including data entry, formula automation, and financial tracking for accurate reporting.",
+    "tools": "Microsoft Excel • Data Entry • Financial Tracking • Formula Automation",
+    "image": "https://images.unsplash.com/photo-1554224154-22dec7ec8818"
   },
   {
     title: "QA Strategy Collaboration & Documentation",
