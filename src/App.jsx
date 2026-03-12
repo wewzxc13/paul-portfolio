@@ -42,13 +42,13 @@ const projects = [
     description:
       "Utilized advanced Excel to analyze data, track project progress, and support QA reporting and documentation processes.",
     tools: "Advanced Excel • Data Analysis • Reporting",
-    image: "https://unsplash.com/photos/a-hand-pointing-at-a-spreadsheet-on-a-computer-screen-xTA7sAAtG40",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
   },
   {
     "title": "Excel Transaction Log Management",
     "description": "Created and maintained comprehensive Excel transaction logs with automated formulas, data validation, and accurate financial tracking for streamlined reporting.",
     "tools": "Microsoft Excel • Google Sheets • Data Entry • Formula Automation",
-    "image": "https://images.unsplash.com/photo-1554224154-22dec7ec8818"
+    "image": "https://unsplash.com/photos/a-hand-pointing-at-a-spreadsheet-on-a-computer-screen-xTA7sAAtG40"
   },
   {
     title: "QA Strategy Collaboration & Documentation",
