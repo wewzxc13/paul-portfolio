@@ -42,14 +42,13 @@ const projects = [
     description:
       "Utilized advanced Excel to analyze data, track project progress, and support QA reporting and documentation processes.",
     tools: "Advanced Excel • Data Analysis • Reporting",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    image: "https://unsplash.com/photos/a-hand-pointing-at-a-spreadsheet-on-a-computer-screen-xTA7sAAtG40",
   },
   {
-    title: "WordPress Website Development & Optimization",
-    description:
-      "Built and optimized WordPress websites including theme customization, plugin configuration, and content management.",
-    tools: "WordPress • SEO Optimization • CMS Management",
-    image: "https://images.unsplash.com/photo-1509395176047-4a66953fd231",
+    "title": "Excel Transaction Log Management",
+    "description": "Created and maintained comprehensive Excel transaction logs with automated formulas, data validation, and accurate financial tracking for streamlined reporting.",
+    "tools": "Microsoft Excel • Google Sheets • Data Entry • Formula Automation",
+    "image": "https://images.unsplash.com/photo-1554224154-22dec7ec8818"
   },
   {
     title: "QA Strategy Collaboration & Documentation",
