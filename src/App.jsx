@@ -78,7 +78,7 @@ export default function App() {
           </nav>
           <div className="flex items-center gap-2">
             <a
-              href="Paul_Nerona_CV.pdf" // relative path
+              href="NERONA_CV.pdf" // relative path
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 bg-teal-600 hover:bg-teal-500 text-white px-4 py-2 rounded-full text-sm transition"
@@ -94,13 +94,13 @@ export default function App() {
       <section className="min-h-screen flex flex-col justify-center items-center text-center px-6 bg-darkbg text-white">
 
         <span className="border border-teal-500 text-teal-400 px-4 py-1 rounded-full text-sm mb-6">
-          Quality Assurance Intern • BSIT Student
+          BSIT Graduate
         </span>
         <h1 className="text-4xl md:text-6xl font-bold leading-tight max-w-4xl">
           Hi, I’m Paul Andrew Nerona —
         </h1>
         <p className="mt-6 text-gray-300 max-w-2xl">
-          Quality Assurance Intern at YAHSHUA Outsourcing Worldwide, Inc. with hands-on experience in functional testing, performance validation, compliance testing, and advanced Excel-based reporting. Currently pursuing a Bachelor of Science in Information Technology and recognized as a Dean’s List student.
+          Quality Assurance Intern at YAHSHUA Outsourcing Worldwide, Inc. with hands-on experience in functional testing, performance validation, compliance testing, and advanced Excel-based reporting. Holds a Bachelor of Science in Information Technology and was recognized as a Dean’s List student.
         </p>
         <div className="mt-8 flex gap-4">
           <a href="#projects" className="bg-teal-600 hover:bg-teal-500 text-white px-6 py-3 rounded-full transition">
@@ -119,7 +119,7 @@ export default function App() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">Professional Summary</h2>
           <p className="text-gray-300 leading-relaxed">
-            I am a detail-focused Quality Assurance Intern currently working at YAHSHUA Outsourcing Worldwide, Inc. in Cagayan De Oro City. I actively participate in refining quality assurance strategies, implementing structured testing protocols, and ensuring services meet functionality and performance standards. My academic background as a BS Information Technology student strengthens my technical foundation in system development, analytics, and documentation. I am passionate about delivering reliable software solutions while continuously improving my technical and analytical skills.
+            I am a detail-focused Quality Assurance Intern currently working at YAHSHUA Outsourcing Worldwide, Inc. in Cagayan De Oro City. I actively participate in refining quality assurance strategies, implementing structured testing protocols, and ensuring services meet functionality and performance standards. My academic background as a Bachelor of Science in Information Technology graduate strengthens my technical foundation in system development, analytics, and documentation. I am passionate about delivering reliable software solutions while continuously improving my technical and analytical skills.
           </p>
         </div>
       </section>
