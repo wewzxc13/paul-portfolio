@@ -38,10 +38,10 @@ const projects = [
     image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
   },
   {
-    title: "Advanced Excel Data Tracking System",
+    title: "Excel Data Tracking System",
     description:
-      "Utilized advanced Excel to analyze data, track project progress, and support QA reporting and documentation processes.",
-    tools: "Advanced Excel • Data Analysis • Reporting",
+      "Utilized Excel to analyze data, track project progress, and support QA reporting and documentation processes.",
+    tools: "Excel • Data Analysis • Reporting",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
   },
   {
@@ -158,7 +158,7 @@ export default function App() {
             {[
               { icon: TestTube, title: "Quality Control & Testing", desc: "Functional, performance, and compliance testing of web services." },
               { icon: Bug, title: "Bug Reporting & Documentation", desc: "Detailed documentation skills with structured issue reporting." },
-              { icon: BarChart3, title: "Excel & Data Tracking", desc: "Data analysis and progress tracking using advanced Excel tools." },
+              { icon: BarChart3, title: "Excel & Data Tracking", desc: "Data analysis and progress tracking using Excel tools." },
               { icon: Laptop, title: "System & Web Development", desc: "Basic system development and dashboard implementation experience." },
               { icon: FileCheck, title: "Risk Assessment", desc: "Identifying potential system risks and ensuring compliance with standards." },
               { icon: Code2, title: "WordPress Development", desc: "Theme customization, plugin installation, and site optimization." },
