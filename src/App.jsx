@@ -99,9 +99,6 @@ export default function App() {
         <h1 className="text-4xl md:text-6xl font-bold leading-tight max-w-4xl">
           Hi, I’m Paul Andrew Nerona —
         </h1>
-        <p className="mt-6 text-gray-300 max-w-2xl">
-          Quality Assurance Intern at YAHSHUA Outsourcing Worldwide, Inc. with hands-on experience in functional testing, performance validation, compliance testing, and advanced Excel-based reporting. Holds a Bachelor of Science in Information Technology and was recognized as a Dean’s List student.
-        </p>
         <div className="mt-8 flex gap-4">
           <a href="#projects" className="bg-teal-600 hover:bg-teal-500 text-white px-6 py-3 rounded-full transition">
             View My Work
@@ -119,8 +116,7 @@ export default function App() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">Professional Summary</h2>
           <p className="text-gray-300 leading-relaxed">
-            I am a detail-focused Quality Assurance Intern currently working at YAHSHUA Outsourcing Worldwide, Inc. in Cagayan De Oro City. I actively participate in refining quality assurance strategies, implementing structured testing protocols, and ensuring services meet functionality and performance standards. My academic background as a Bachelor of Science in Information Technology graduate strengthens my technical foundation in system development, analytics, and documentation. I am passionate about delivering reliable software solutions while continuously improving my technical and analytical skills.
-          </p>
+           Bachelor of Science in Information Technology graduate with experience in web testing, quality assurance, data management, and system development. Familiar with computer software, web applications, documentation, and basic troubleshooting. Proficient in Microsoft Excel and Google Workspace with strong attention to detail, problem-solving skills, and willingness to learn and adapt to new technologies.          </p>
         </div>
       </section>
 
@@ -162,7 +158,7 @@ export default function App() {
             {[
               { icon: TestTube, title: "Quality Control & Testing", desc: "Functional, performance, and compliance testing of web services." },
               { icon: Bug, title: "Bug Reporting & Documentation", desc: "Detailed documentation skills with structured issue reporting." },
-              { icon: BarChart3, title: "Advanced Excel & Data Tracking", desc: "Data analysis and progress tracking using advanced Excel tools." },
+              { icon: BarChart3, title: "Excel & Data Tracking", desc: "Data analysis and progress tracking using advanced Excel tools." },
               { icon: Laptop, title: "System & Web Development", desc: "Basic system development and dashboard implementation experience." },
               { icon: FileCheck, title: "Risk Assessment", desc: "Identifying potential system risks and ensuring compliance with standards." },
               { icon: Code2, title: "WordPress Development", desc: "Theme customization, plugin installation, and site optimization." },
@@ -184,12 +180,12 @@ export default function App() {
           <div className="space-y-10 border-l-2 border-teal-600 pl-6">
             <div>
               <h3 className="font-semibold">Quality Assurance Intern</h3>
-              <p className="text-gray-300 text-sm">YAHSHUA Outsourcing Worldwide, Inc. • 12/2025 - Current</p>
+              <p className="text-gray-300 text-sm">YAHSHUA Outsourcing Worldwide, Inc. • 11/2025 - 03/2026</p>
               <ul className="text-gray-300 text-sm mt-3 list-disc ml-5 space-y-1">
-                <li>Implemented structured website testing protocols to enhance reliability.</li>
-                <li>Tested functionality, performance, and compliance against design specifications.</li>
-                <li>Participated in team meetings to refine QA strategies and improve workflows.</li>
-                <li>Utilized advanced Excel to analyze data and track project progress.</li>
+                <li>Performed manual testing of websites and web applications to identify functionality and usability issues</li>
+                <li>Documented bugs, errors, and technical issues with clear reports</li>
+                <li>Assisted in maintaining data accuracy and system quality</li>
+                <li>Followed project requirements and procedures to ensure system functionality</li>
               </ul>
             </div>
           </div>
@@ -233,7 +229,7 @@ export default function App() {
       {/* Footer */}
       <footer className="bg-darkbg border-t border-gray-700 py-10 px-6 text-gray-400">
         <div className="text-center text-gray-400 text-xs">
-          © 2026 Paul Andrew Nerona • Quality Assurance Intern • Future QA Automation Engineer
+          © 2026 Paul Andrew Nerona • Information Technology Graduate
         </div>
       </footer>
     </div>
